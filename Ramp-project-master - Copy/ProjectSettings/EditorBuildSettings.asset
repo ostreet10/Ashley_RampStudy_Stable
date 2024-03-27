@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Setup.unity
+    guid: 873e1f402bee8d7428d3e79733f3d066
+  - enabled: 1
+    path: Assets/Scenes/Near0.unity
+    guid: f596f24768e623941b5683cb8109c7f8
+  - enabled: 1
+    path: Assets/Scenes/Near15.unity
+    guid: 545d46a91cea6d441b445fd61383e743
+  - enabled: 1
+    path: Assets/Scenes/Near30.unity
+    guid: 51696cac6bd3d914d905497486435c9c
+  - enabled: 1
+    path: Assets/Scenes/Near45.unity
+    guid: d4c422f9c01bf1e4f9077e15a8e84faa
+  - enabled: 1
+    path: Assets/Scenes/Near60.unity
+    guid: 22916579ba724094dbe248aa68936ffa
+  - enabled: 1
+    path: Assets/Scenes/Near75.unity
+    guid: c7c1e6774cc746041b428107ebedc97f
+  - enabled: 1
+    path: Assets/Scenes/Near90.unity
+    guid: 432a8f4d457a5644bbcddd0088bea841
+  - enabled: 1
+    path: Assets/Scenes/Near02.unity
+    guid: 367e24d8f43874e44a25252a60c88095
+  - enabled: 1
+    path: Assets/Scenes/Near1502.unity
+    guid: 0e169bf0ba0619a44b2db12e3295a80e
+  - enabled: 1
+    path: Assets/Scenes/Near3002.unity
+    guid: 255c2d9ba1713d5449828480a948c986
+  - enabled: 1
+    path: Assets/Scenes/Near4502.unity
+    guid: 4380a3f1c44fdf84b9b306310cdced8f
+  - enabled: 1
+    path: Assets/Scenes/Near6002.unity
+    guid: 177b0f8cad695bd46bcaa797ec6b5787
+  - enabled: 1
+    path: Assets/Scenes/Near7502.unity
+    guid: 024c2792d8ad3be479b9995ea2da3413
+  - enabled: 1
+    path: Assets/Scenes/Near9002.unity
+    guid: 6a67ffcd9cefd96479e0fa55061dc9fb
+  - enabled: 1
+    path: Assets/Scenes/Near03.unity
+    guid: 361f0a6b92333c54f8469fac82fdb64a
+  - enabled: 1
+    path: Assets/Scenes/Near1503.unity
+    guid: a427598b433e6b3429c711c677cf4428
+  - enabled: 1
+    path: Assets/Scenes/Near3003.unity
+    guid: c025801cea1323e49a494c8404b19d9e
+  - enabled: 1
+    path: Assets/Scenes/Near4503.unity
+    guid: 301f80759c3288a43ad87ee2cdf60474
+  - enabled: 1
+    path: Assets/Scenes/Near6003.unity
+    guid: fc1bcd927cfe9c442a748fc77c8eb759
+  - enabled: 1
+    path: Assets/Scenes/Near7503.unity
+    guid: 103040811d6719e4a91267f6200c8ecf
+  - enabled: 1
+    path: Assets/Scenes/Near9003.unity
+    guid: d70c937da460e5040b914509f274d52b
+  - enabled: 1
+    path: Assets/Scenes/Begin 1.unity
+    guid: 8c172a63af81d994ea03ea0843948e08
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: b0ca43f293c07214c99afbf029a2f419
+  - enabled: 1
+    path: Assets/Scenes/Near0Trial.unity
+    guid: ee0154bb60b73b5428dc19d59fc5d32b
+  - enabled: 1
+    path: Assets/Scenes/Near15Trial.unity
+    guid: 0ac71750a7a7c9240a9a70efcadc784c
+  - enabled: 1
+    path: Assets/Scenes/Near30Trial.unity
+    guid: d5b5ef33138440e44b229d27ed36c6c8
+  - enabled: 1
+    path: Assets/Scenes/Near45Trial.unity
+    guid: 0e1ce8f246a1d364ca5116001705b305
+  - enabled: 1
+    path: Assets/Scenes/Near60Trial.unity
+    guid: 654cae697c65af94a908d6024c3cb28d
+  - enabled: 1
+    path: Assets/Scenes/Near75Trial.unity
+    guid: c1c7faf7c9163514dadcd9c3fb45519d
+  - enabled: 1
+    path: Assets/Scenes/Near90Trial.unity
+    guid: 28b591da04675ae4cb5183ba383b5c8e
+  m_configObjects: {}
